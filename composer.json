@@ -1,0 +1,21 @@
+{
+    "name": "gaomingcode/jquery.daterangepicker",
+    "description": "Date range picker component for Bootstrap",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "jquery-plugin", "calendar", "date", "time", "datetime", "datepicker", "timepicker", "rangepicker"
+    ],
+    "homepage": "https://github.com/dangrossman/daterangepicker",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Dan Grossman",
+            "email": "dan@dangrossman.info",
+            "url": "http://www.dangrossman.info"
+        }
+    ]
+}

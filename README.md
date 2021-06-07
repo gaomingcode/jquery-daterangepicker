@@ -1,5 +1,19 @@
 # Date Range Picker
 
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/jquery-daterangepicker.svg)](https://github.com/gaomingcode/jquery-daterangepicker)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/jquery.daterangepicker)](https://github.com/gaomingcode/jquery-daterangepicker)
+[![Github License](https://img.shields.io/github/license/gaomingcode/jquery-daterangepicker)](https://github.com/gaomingcode/jquery-daterangepicker)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/jquery.daterangepicker
+```
+
+## ReadMe from Origin
+
 ![Improvely.com](https://i.imgur.com/UTRlaar.png)
 
 This date range picker component creates a dropdown menu from which a user can
